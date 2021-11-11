@@ -1,6 +1,7 @@
 package main;
 public class Main {
     public static void main(String[] args){
-        System.out.println("Demonios viejo");
+        int[][] x = new int[3][3];
+        Pelota p = new Pelota();
+        }
     }
-}
